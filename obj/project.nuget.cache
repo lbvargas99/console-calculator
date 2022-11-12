@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+/Kt7hM8B99LvS7D9shPybQVzLrf2Law4CgCj+YElm/s+C5xWHu8l1U9OPVv6T0iNNn7zk29OSFKS6vmiTlL1Q==",
+  "dgSpecHash": "09gZ2lBtmVIq7TUoJj5lDH7STLydhS2vxbdcz6Qb3dFl+9YDdzP4zuKraTaeeaQavjNf+fQXsm9DHX7IXuc6Xw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Calculator\\Calculator.csproj",
+  "projectFilePath": "C:\\Git\\Calculator\\Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
